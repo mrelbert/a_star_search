@@ -1,0 +1,20 @@
+{
+  "name": "a_star_search",
+  "version": "1.0.0",
+  "description": "A* search desktop app",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Elbert Kim",
+  "license": "ISC",
+  "dependencies": {
+    "@tyriar/binary-heap": "^1.0.5",
+    "collections": "^5.0.7",
+    "electron": "^1.7.9",
+    "heap": "^0.2.6",
+    "js-heap": "^0.3.1",
+    "object-sizeof": "^1.2.0",
+    "sizeof": "^1.0.0"
+  }
+}
